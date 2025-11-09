@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  A passionate student from <b>Jiangsu University (UJS)</b>.
+  A passionate student from <b>UJS</b>.
   <br />
   I'm currently diving deep into <b>AI Agent Development</b> and <b>Cybersecurity</b>.
 </p>
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-* 🎓 I'm currently a student at **Jiangsu University (UJS)**.
+* 🎓 I'm currently a student at **UJS**.
 * 💻 I'm passionate about exploring the world of code and security, enjoying both building and "breaking" systems.
 * 🧠 My career goal is to become an AI Security Specialist and Penetration Tester.
 * 💬 Feel free to connect with me to discuss anything related to tech, AI, or security!
@@ -42,7 +42,7 @@ I am fully immersed in the intersection of AI and Cybersecurity, with a focus on
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="YOUR_USERNAME's GitHub Stats" />
@@ -56,16 +56,4 @@ I am fully immersed in the intersection of AI and Cybersecurity, with a focus on
 
 ---
 
-### 🤝 Connect with Me
 
-<p align="center">
-  <a href="[Your LinkedIn URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[Your Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[Your Twitter/X URL]">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
