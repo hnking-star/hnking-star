@@ -47,7 +47,7 @@ I am fully immersed in the intersection of AI and Cybersecurity, with a focus on
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnking-star&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="hnking-star's GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnking-star&layout=compact&langs_count=8&theme=dracula" alt="hnking-star's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnking-star&layout=compact&langs_count=8&theme=dracula&count_private=true" alt="hnking-star's Top Languages" />
 </p>
 
 
