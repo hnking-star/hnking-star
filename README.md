@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=hnking-star&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
 </p>
 
 <h1 align="center">
@@ -37,23 +37,18 @@ I am fully immersed in the intersection of AI and Cybersecurity, with a focus on
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,php,mysql,docker,git,linux,vue,fastapi&theme=dark" />
-  </a> 
-
+  </a>
+</p>
 
 ---
 
-### 📊 My GitHub 
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="YOUR_USERNAME's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnking-star&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="hnking-star's GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dracula" alt="YOUR_USERNAME's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnking-star&layout=compact&langs_count=8&theme=dracula" alt="hnking-star's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
-
-
